@@ -11,6 +11,12 @@
  *  Mean:    100.60
  *  Std dev: 10.51
  *  
+ *  
+ *  
+ *  Bags. A bag is a collection where removing items is not supported—its purpose 
+ *  is to provide clients with the ability to collect items and then to iterate through 
+ *  the collected items. Stats.java is a bag client that reads a sequence of real numbers 
+ *  from standard input and prints out their mean and standard deviation.
  *************************************************************************/
 
 public class Stats {
